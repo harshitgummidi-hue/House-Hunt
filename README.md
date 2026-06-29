@@ -107,18 +107,29 @@ The application uses **JWT (JSON Web Token)** for secure authentication. After a
 
 ## 📷 Screenshots
 
-Add screenshots of:
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
 
-* Home Page
-* Login
-* Register
-* Dashboard
-* Property Listing
-* Property Details
-* Add Property
-* My Bookings
+### 🔑 Login Page
+![Login Page](screenshots/login.png)
 
----
+### 📝 Register Page
+![Register Page](screenshots/register.png)
+
+### 🏘️ Properties Page
+![Properties Page](screenshots/properties.png)
+
+### 📄 Property Details Page
+![Property Details](screenshots/property-details.png)
+
+### ➕ Add Property Page
+![Add Property](screenshots/add-property.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📅 My Bookings
+![My Bookings](screenshots/my-bookings.png)
 
 ## 🚀 Future Enhancements
 
