@@ -133,6 +133,6 @@ Add screenshots of:
 
 ## 👨‍💻 Developed By
 
-**Your Name**
+**CHINTAKULA MUKESH NARAYANA**
 
 Full Stack Development with MERN Internship Project.
