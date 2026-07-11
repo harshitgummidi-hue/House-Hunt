@@ -49,16 +49,20 @@ A full-stack **House Rent Management System** developed using the **MERN Stack (
 
 ## 📂 Project Structure
 
-```
+## 📂 Project Structure
+
 House-Rent-Management-System/
 │
 ├── client/
+│   ├── public/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   ├── services/
 │   │   ├── App.js
 │   │   └── index.js
+│   ├── package.json
+│   └── package-lock.json
 │
 ├── server/
 │   ├── config/
@@ -66,12 +70,43 @@ House-Rent-Management-System/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
+│   ├── package.json
 │   └── server.js
 │
+├── Documentation/
+│   └── House_Rent_Management_System_Documentation.pdf
+│
+├── Phase Wise Templates/
+│   ├── Brain Storming And Ideation Phase/
+|       └── Brainstorming- Idea Generation- Prioritizaation Template.docx
+|       └── Define Problem Statements Template.docx
+|       └── Empathy Map Canvas.docx
+│   ├── Project Design Phase/
+|       └── Problem - Solution Fit Template v1.docx
+|       └── Proposed Solution Template.docx
+|       └── Solution Architecture.docx
+│   ├── Project Development/
+|       └── User Acceptance Testing FSD.docx
+│   ├── Project Planning Phase/
+|       └── Project Planning Template.docx
+│   ├── Requirement Analysis/
+|       └── Data Flow Diagrams and User Stories.docx
+|       └── Solution Requirements.docx
+|       └── Technology Stack - Template.docx
+│
+├── screenshots/
+│   ├── home.png
+│   ├── login.png
+│   ├── register.png
+│   ├── properties.png
+│   ├── property-details.png
+│   ├── add-property.png
+│   ├── dashboard.png
+│   └── my-bookings.png
+│
+├── .gitignore
 └── README.md
 ```
-
----
 
 ## ⚙ Installation
 
