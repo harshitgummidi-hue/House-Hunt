@@ -49,8 +49,6 @@ A full-stack **House Rent Management System** developed using the **MERN Stack (
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 House-Rent-Management-System/
 │
 ├── client/
