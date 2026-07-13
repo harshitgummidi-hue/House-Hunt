@@ -73,7 +73,7 @@ House-Rent-Management-System/
 │   └── server.js
 │
 ├── Documentation/
-│   └── House_Rent_Management_System_Documentation.pdf
+│   └── Documentation.pdf
 │
 ├── Phase Wise Templates/
 │   ├── Brain Storming And Ideation Phase/
