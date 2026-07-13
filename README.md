@@ -178,6 +178,7 @@ The application uses **JWT (JSON Web Token)** for secure authentication. After a
 
 ## 👨‍💻 Developed By
 
+**PILLI VIJAYAKUMARI**<br>
 **CHINTAKULA MUKESH NARAYANA**<br>
 **DASARI JEEVAN SAI CHAKRI**<br>
 **DASARI TEJEESWARI**
