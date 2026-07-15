@@ -98,7 +98,6 @@ House-Rent-Management-System/
 │   ├── properties.png
 │   ├── property-details.png
 │   ├── add-property.png
-│   ├── dashboard.png
 │   └── my-bookings.png
 │
 ├── .gitignore
