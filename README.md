@@ -72,8 +72,6 @@ House-Rent-Management-System/
 │   ├── package.json
 │   └── server.js
 │
-├── Documentation/
-│   └── Documentation.pdf
 │
 ├── Phase Wise Templates/
 │   ├── Brain Storming And Ideation Phase/
@@ -159,9 +157,6 @@ The application uses **JWT (JSON Web Token)** for secure authentication. After a
 ### ➕ Add Property Page
 ![Add Property](screenshots/add-property.png)
 
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
 ### 📅 My Bookings
 ![My Bookings](screenshots/my-bookings.png)
 
@@ -178,9 +173,6 @@ The application uses **JWT (JSON Web Token)** for secure authentication. After a
 
 ## 👨‍💻 Developed By
 
-**PILLI VIJAYAKUMARI**<br>
-**CHINTAKULA MUKESH NARAYANA**<br>
-**DASARI JEEVAN SAI CHAKRI**<br>
-**DASARI TEJEESWARI**
+**GUMMIDI VENKATA HARSHITH**
 
 Full Stack Development with MERN Internship Project.
